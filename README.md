@@ -9,6 +9,6 @@ NOTE: this asussmes you have already built the dcm2bids config file for your stu
 3. Download the resulting zip file and extract on your local computer
 4. Open your dcm2bids script location in the terminal
 5. Activate the bids environment (type bidsgo if on barracuda)
-6. Update your dcm2bids script ith relevant participant numbers 
-7. Run the dcm2bids script
+6. Update your dcm2bids script and python scripts with relevant participant numbers 
+7. Run the dcm2bids script (i.e. bash run_dcm2bids.sh)
 8. Check your outputs to make sure everything is present and properly labelled
